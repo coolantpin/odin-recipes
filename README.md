@@ -1,0 +1,1 @@
+This is an Odin Project in the Foundations course. This is to demonstrate the basic skills of html. This would include setting up the basic html files, updating with git hub, adding headers, adding bodys and images. Applying links for recipes. 
